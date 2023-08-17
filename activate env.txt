@@ -1,0 +1,18 @@
+first copy every file I sent you to the folder within the python path
+
+1. open command prompt 
+2. type python
+3. It takes you to microsoft store to download python and install it
+4. in cmd type python again to confirm python installation 
+5. close and reopen cmd propmt again
+6. type "python get-pip.py" 
+7. type "pip install streamlit"
+after installation in cmd
+8. type python -m venv c:\path\"to folder path where you put all the files i sent you"
+to activate the path.
+9. Change directory to that new path  cd c:\path\"to folder path where you put all the 
+files I sent you"
+10. type "streamlit run schoolDt.py"
+11. copy this url "http://localhost:8501" and paste in your browser
+12. You should see the school dropout interface for typing in data for each student's 
+grades and click the predict button to see results
